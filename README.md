@@ -1,4 +1,5 @@
-### Hi !
+[![Yoen's GitHub Banner](./assets/banner.png)]<!--(https://)-->
+[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&color=7289DA)]<!--(https://twitter.com/BraydonCoyer)-->
 
 <!--
 **EnyoYoen/EnyoYoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
