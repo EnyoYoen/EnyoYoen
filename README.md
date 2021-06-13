@@ -9,5 +9,5 @@ I'm **curious** and I like to discover new things !
 ![Yoen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EnyoYoen&show_icons=true&theme=algolia)    
 ##**Skills**  
 ![Code C](https://img.shields.io/badge/Code-C-informational?logo=c)
-![Code C++](https://img.shields.io/badge/Code-C%2B%2B-informational?logo=c++)
+![Code C++](https://img.shields.io/badge/Code-C%2B%2B-informational?logo=c%2B%2B)
 ![](https://img.shields.io/badge/?style=flat&logo=&color=)
