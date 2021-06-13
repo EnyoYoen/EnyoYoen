@@ -10,4 +10,9 @@ I'm **curious** and I like to discover new things !
 ## **Skills**  
 ![Code C](https://img.shields.io/badge/Code-C-informational?logo=c)
 ![Code C++](https://img.shields.io/badge/Code-C%2B%2B-informational?logo=c%2B%2B)
-![](https://img.shields.io/badge/?style=flat&logo=&color=)
+![Code Python](https://img.shields.io/badge/Code-Python-informational?logo=python)
+![Code HTML](https://img.shields.io/badge/Code-HTML-informational?logo=html)
+![Code CSS](https://img.shields.io/badge/Code-CSS-informational?logo=css)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript)
+![Code PHP](https://img.shields.io/badge/Code-PHP-informational?logo=php)
+![Code Java](https://img.shields.io/badge/Code-Java-informational?logo=java)
