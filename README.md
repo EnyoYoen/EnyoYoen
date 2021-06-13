@@ -6,5 +6,9 @@ I'm a **young developer** who likes to create any type of software with any lang
 I'm **curious** and I like to discover new things !
 
 ![Yoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnyoYoen&show_icons=true&theme=algolia)  
-![Yoen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EnyoYoen&show_icons=true&theme=algolia)
-  Skills  
+![Yoen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EnyoYoen&show_icons=true&theme=algolia)    
+##**Skills**  
+![Code-C-informational](https://img.shields.io/badge/?style=flat&logo=&color=)
+![](https://img.shields.io/badge/Code-C-informational?logo=c)
+![](https://img.shields.io/badge/?style=flat&logo=&color=)
+![](https://img.shields.io/badge/?style=flat&logo=&color=)
