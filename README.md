@@ -15,9 +15,9 @@ I'm **curious** and I like to discover new things !
 ![Code CSS](https://img.shields.io/badge/Code-CSS-informational?logo=css3)
 ![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript)
 ![Code PHP](https://img.shields.io/badge/Code-PHP-informational?logo=php)
-![Code Java](https://img.shields.io/badge/Code-Java-informational?logo=java)  
+![Code Java](https://img.shields.io/badge/Code-Java-informational?logo=java)
 
 ![OS Linux](https://img.shields.io/badge/OS-Linux-informational?logo=linux)
-![OS Windows](https://img.shields.io/badge/OS-Windows-informational?logo=windows)  
+![OS Windows](https://img.shields.io/badge/OS-Windows-informational?logo=windows)
 
 ![Tool Github](https://img.shields.io/badge/Tool-GitHub-informational?logo=github)
