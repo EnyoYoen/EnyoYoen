@@ -4,3 +4,5 @@
 **Hello !**  
 I'm a **young developer** who likes to create any type of software with any language. I know these languages: *C/C++, Java, V, python, HTML / CSS / JavaScript / PHP*.  
 I'm **curious** and I like to discover new things !
+
+![Yoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnyoYoen)
