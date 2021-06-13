@@ -7,3 +7,4 @@ I'm **curious** and I like to discover new things !
 
 ![Yoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnyoYoen&show_icons=true&theme=algolia)  
 ![Yoen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EnyoYoen&show_icons=true&theme=algolia)
+  Skills  
